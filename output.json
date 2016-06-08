@@ -2,12 +2,14 @@
     {
         "title": "Monster",
         "artist": "EXO",
-        "album": "EX`ACT - The 3rd Album"
+        "album": "EX`ACT - The 3rd Album",
+        "url": "https://www.youtube.com/embed/KSH-FVVtTf0"
     },
     {
         "title": "Lucky One",
         "artist": "EXO",
-        "album": "EX`ACT - The 3rd Album"
+        "album": "EX`ACT - The 3rd Album",
+        "url": "https://www.youtube.com/embed/73QzQYN8FtE"
     },
     {
         "title": "Artificial Love",
@@ -32,7 +34,7 @@
     {
         "title": "Stronger",
         "artist": "EXO",
-        "album": "EX`ACT - The 3rd Album"
+        "album": "EX`ACT - The 3rd Album",
     },
     {
         "title": "유리어항 (One and Only)",
@@ -47,62 +49,74 @@
     {
         "title": "널 사랑하지 않아",
         "artist": "어반자카파",
-        "album": "스틸"
+        "album": "스틸",
+        "url": "https://www.youtube.com/embed/MfYPKZl7W1w"
     },
     {
         "title": "CHEER UP",
         "artist": "TWICE (트와이스)",
-        "album": "PAGE TWO"
+        "album": "PAGE TWO",
+        "url": "https://www.youtube.com/embed/c7rCyll5AeY"
     },
     {
         "title": "쏘쏘",
         "artist": "백아연",
-        "album": "쏘쏘"
+        "album": "쏘쏘",
+        "url": "https://www.youtube.com/embed/BbQG-S4mU0U"
     },
     {
         "title": "바라지 않아 (Feat. 소정 Of 레이디스 코드)",
         "artist": "정키",
-        "album": "LISH"
+        "album": "LISH",
+        "url": "https://www.youtube.com/embed/M-TS9KcZsUY"
     },
     {
         "title": "꿈처럼",
         "artist": "벤",
-        "album": "또 오해영 OST Part.2"
+        "album": "또 오해영 OST Part.2",
+        "url": "https://www.youtube.com/embed/LcPN92043ds"
     },
     {
         "title": "자격지심 (Feat. 은하 Of 여자친구)",
         "artist": "박경 (블락비)",
-        "album": "자격지심"
+        "album": "자격지심",
+        "url": "https://www.youtube.com/embed/AL2E1JDw2cA"
     },
     {
         "title": "하늘바라기 (Feat. 하림)",
         "artist": "정은지",
-        "album": "Dream"
+        "album": "Dream",
+        "url": "https://www.youtube.com/embed/nzDO6tAB6ng"
     },
     {
         "title": "D (half moon) (Feat. 개코)",
         "artist": "DEAN",
-        "album": "130 mood : TRBL"
+        "album": "130 mood : TRBL",
+        "url": "https://www.youtube.com/embed/LKiauCIJhv0"
     },
     {
         "title": "어디에도",
         "artist": "엠씨더맥스",
-        "album": "pathos"
+        "album": "pathos",
+        "url": "https://www.youtube.com/embed/va5rf20Un24"
     },
     {
         "title": "너였다면",
         "artist": "정승환",
-        "album": "또 오해영 OST Part.5"
+        "album": "또 오해영 OST Part.5",
+        "url": "https://www.youtube.com/embed/UPFQeaH4wnw"
     },
     {
         "title": "오늘 모해 (#WYD)",
         "artist": "iKON",
-        "album": "오늘 모해 (#WYD)"
+        "album": "오늘 모해 (#WYD)",
+        "url": "https://www.youtube.com/embed/hth1VQNPtj0"
     },
     {
         "title": "RE-BYE",
         "artist": "악동뮤지션",
-        "album": "사춘기 상 (思春記 上)"
+        "album": "사춘기 상 (思春記 上)",
+        "url": "https://www.youtube.com/embed/ST8O-AeY3Uo"
     },
     {
         "title": "1llusion",
@@ -112,62 +126,74 @@
     {
         "title": "Monster (Chinese Ver.)",
         "artist": "EXO",
-        "album": "EX`ACT - The 3rd Album"
+        "album": "EX`ACT - The 3rd Album",
+        "url": "https://www.youtube.com/embed/zBD2dt7tRng"
     },
     {
         "title": "Lucky One (Chinese Ver.)",
         "artist": "EXO",
-        "album": "EX`ACT - The 3rd Album"
+        "album": "EX`ACT - The 3rd Album",
+        "url": "https://www.youtube.com/embed/baud3DcBYsI"
     },
     {
         "title": "내 입술 따뜻한 커피처럼 (Feat. 이성경)",
         "artist": "에디킴",
-        "album": "내 입술 따뜻한 커피처럼"
+        "album": "내 입술 따뜻한 커피처럼",
+        "url": "https://www.youtube.com/embed/Ae89su8fVv4"
     },
     {
         "title": "불타오르네 (FIRE)",
         "artist": "방탄소년단",
-        "album": "화양연화 Young Forever"
+        "album": "화양연화 Young Forever",
+        "url": "https://www.youtube.com/embed/ALj5MKjy2BU"
     },
     {
         "title": "Good Luck",
         "artist": "AOA",
-        "album": "Good Luck"
+        "album": "Good Luck",
+        "url": "https://www.youtube.com/embed/sno_genwMz8"
     },
     {
         "title": "이 사랑",
         "artist": "다비치",
-        "album": "태양의 후예 OST Part.3"
+        "album": "태양의 후예 OST Part.3",
+        "url": "https://www.youtube.com/embed/XyzaMpAVm3s"
     },
     {
         "title": "Toy",
         "artist": "블락비 (Block B)",
-        "album": "Blooming Period"
+        "album": "Blooming Period",
+        "url": "https://www.youtube.com/embed/JtjxZoa_LHM"
     },
     {
         "title": "안아줘",
         "artist": "정준일",
-        "album": "Lo9ve3r4s"
+        "album": "Lo9ve3r4s",
+        "url": "https://www.youtube.com/embed/JzociagwnBw"
     },
     {
         "title": "L.I.E",
         "artist": "EXID",
-        "album": "STREET"
+        "album": "STREET",
+        "url": "https://www.youtube.com/embed/RnDSODY7bVE"
     },
     {
         "title": "봄이 좋냐??",
         "artist": "10cm",
-        "album": "3.2"
+        "album": "3.2",
+        "url": "https://www.youtube.com/embed/cIGgSI1uhKI"
     },
     {
         "title": "You Are My Everything",
         "artist": "거미",
-        "album": "태양의 후예 OST Part.4"
+        "album": "태양의 후예 OST Part.4",
+        "url": "https://www.youtube.com/embed/ToASX6axGuw"
     },
     {
         "title": "우아해 (woo ah)",
         "artist": "Crush",
-        "album": "Interlude"
+        "album": "Interlude",
+        "url": "https://www.youtube.com/embed/6CM5iC_isug"
     },
     {
         "title": "뚝뚝뚝 (With 예슬)",
@@ -177,12 +203,14 @@
     {
         "title": "사랑하자",
         "artist": "SG 워너비",
-        "album": "태양의 후예 OST Part.8"
+        "album": "태양의 후예 OST Part.8",
+        "url": "https://www.youtube.com/embed/Jkf8TrvtjTk"
     },
     {
         "title": "맥주 두 잔",
         "artist": "키썸 (Kisum)",
-        "album": "맥주 두 잔"
+        "album": "맥주 두 잔",
+        "url": "https://www.youtube.com/embed/G4BolnueTeE"
     },
     {
         "title": "걱정말아요 그대",
@@ -192,57 +220,68 @@
     {
         "title": "너는 나 나는 너",
         "artist": "지코 (ZICO)",
-        "album": "Break Up 2 Make Up"
+        "album": "Break Up 2 Make Up",
+        "url": "https://www.youtube.com/embed/ewjucLierFc"
     },
     {
         "title": "시간을 달려서 (Rough)",
         "artist": "여자친구",
-        "album": "여자친구 3rd Mini Album `SNOWFLAKE`"
+        "album": "여자친구 3rd Mini Album `SNOWFLAKE`",
+        "url": "https://www.youtube.com/embed/0VKcLPdY9lI"
     },
     {
         "title": "말해! 뭐해?",
         "artist": "케이윌",
-        "album": "태양의 후예 OST Part.6"
+        "album": "태양의 후예 OST Part.6",
+        "url": "https://www.youtube.com/embed/SdHQkkRc-hc"
     },
     {
         "title": "Dream Girls",
         "artist": "아이오아이 (I.O.I)",
-        "album": "아이오아이 (I.O.I) 1st Mini Album `Chrysalis`"
+        "album": "아이오아이 (I.O.I) 1st Mini Album `Chrysalis`",
+        "url": "https://www.youtube.com/embed/1BVV9UqELbA"
     },
     {
         "title": "사람들이 움직이는 게",
         "artist": "악동뮤지션",
-        "album": "사춘기 상 (思春記 上)"
+        "album": "사춘기 상 (思春記 上)",
+        "url": "https://www.youtube.com/embed/sbc2yBheAbo"
     },
     {
         "title": "The Time Goes On",
         "artist": "BewhY (비와이)",
-        "album": "Time Travel"
+        "album": "Time Travel",
+        "url": "https://www.youtube.com/embed/mcjR94Q1qSI"
     },
     {
         "title": "넌 is 뭔들",
         "artist": "마마무",
-        "album": "Melting"
+        "album": "Melting",
+        "url": "https://www.youtube.com/embed/QbhmTM1cRro"
     },
     {
         "title": "어쩌면 나",
         "artist": "로이킴",
-        "album": "또 오해영 OST Part.4"
+        "album": "또 오해영 OST Part.4",
+        "url": "https://www.youtube.com/embed/pLuETPoCKRo"
     },
     {
         "title": "OOH-AHH하게",
         "artist": "TWICE (트와이스)",
-        "album": "THE STORY BEGINS"
+        "album": "THE STORY BEGINS",
+        "url": "https://www.youtube.com/embed/0rtV5esQT6I"
     },
     {
         "title": "한숨",
         "artist": "이하이",
-        "album": "SEOULITE"
+        "album": "SEOULITE",
+        "url": "https://www.youtube.com/embed/5iSlfF8TQ9k"
     },
     {
         "title": "Boys And Girls (Feat. Babylon)",
         "artist": "지코 (ZICO)",
-        "album": "Boys and Girls"
+        "album": "Boys and Girls",
+        "url": "https://www.youtube.com/embed/UsaJsymfuWU"
     },
     {
         "title": "토요일의 끝에서 (Feat. Blacknut)",
@@ -257,17 +296,20 @@
     {
         "title": "ALWAYS",
         "artist": "윤미래",
-        "album": "태양의 후예 OST Part.1"
+        "album": "태양의 후예 OST Part.1",
+        "url": "https://www.youtube.com/embed/aE0eV2YR51k"
     },
     {
         "title": "잊어버리지마 (Feat. 태연)",
         "artist": "Crush",
-        "album": "잊어버리지마"
+        "album": "잊어버리지마",
+        "url": "https://www.youtube.com/embed/TcytstV1_XE"
     },
     {
         "title": "Shut Up & Groove (Feat. DEAN)",
         "artist": "헤이즈 (Heize)",
-        "album": "And July"
+        "album": "And July",
+        "url": "https://www.youtube.com/embed/sk6WiGOmlso"
     },
     {
         "title": "How Can I Love You",
@@ -287,12 +329,14 @@
     {
         "title": "Save ME",
         "artist": "방탄소년단",
-        "album": "화양연화 Young Forever"
+        "album": "화양연화 Young Forever",
+        "url": "https://www.youtube.com/embed/GZjt_sA2eso"
     },
     {
         "title": "좋아 (She is)",
         "artist": "종현 (JONGHYUN)",
-        "album": "좋아 - The 1st Album"
+        "album": "좋아 - The 1st Album",
+        "url": "https://www.youtube.com/embed/jmNhfjzmMrU"
     },
     {
         "title": "Artificial Love (Chinese Ver.)",
@@ -302,7 +346,8 @@
     {
         "title": "또 다시 사랑",
         "artist": "임창정",
-        "album": "또 다시 사랑"
+        "album": "또 다시 사랑",
+        "url": "https://www.youtube.com/embed/LDGO2nVf_dM"
     },
     {
         "title": "녹턴 (Nocturn) (하면 된다 백수탈출)",
@@ -312,7 +357,8 @@
     {
         "title": "끄덕끄덕",
         "artist": "남우현",
-        "album": "Write.."
+        "album": "Write..",
+        "url": "https://www.youtube.com/embed/cVtcn6ptjmE"
     },
     {
         "title": "스치는 (Feat. 백지웅)",
@@ -322,7 +368,8 @@
     {
         "title": "오늘부터 우리는 (Me Gustas Tu)",
         "artist": "여자친구",
-        "album": "여자친구 2nd Mini Album `Flower Bud`"
+        "album": "여자친구 2nd Mini Album `Flower Bud`",
+        "url": "https://www.youtube.com/embed/m-CKVr6Z1Tw"
     },
     {
         "title": "Cloud 9 (Chinese Ver.)",
@@ -337,7 +384,8 @@
     {
         "title": "벚꽃이 지면",
         "artist": "아이오아이 (I.O.I)",
-        "album": "아이오아이 (I.O.I) 1st Mini Album `Chrysalis`"
+        "album": "아이오아이 (I.O.I) 1st Mini Album `Chrysalis`",
+        "url": "https://www.youtube.com/embed/xrtIvoVxPKo"
     },
     {
         "title": "같은 곳에서",
@@ -352,7 +400,8 @@
     {
         "title": "그대, 바람이 되어",
         "artist": "엠씨더맥스",
-        "album": "태양의 후예 OST Part.9"
+        "album": "태양의 후예 OST Part.9",
+        "url": "https://www.youtube.com/embed/C2o9zadKqMg"
     },
     {
         "title": "21",
@@ -372,17 +421,20 @@
     {
         "title": "Love Yourself",
         "artist": "Justin Bieber",
-        "album": "Purpose (Deluxe Edition)"
+        "album": "Purpose (Deluxe Edition)",
+        "url": "https://www.youtube.com/embed/oyEuk8j8imI"
     },
     {
         "title": "마치 비행기 (Feat. 개리)",
         "artist": "San E",
-        "album": "마치 비행기"
+        "album": "마치 비행기",
+        "url": "https://www.youtube.com/embed/4I7kfP8-fhQ"
     },
     {
         "title": "Rain",
         "artist": "태연",
-        "album": "태연 `Rain`"
+        "album": "태연 `Rain`",
+        "url": "https://www.youtube.com/embed/eHir_vB1RUI"
     },
     {
         "title": "One and Only (Chinese Ver.)",
@@ -392,7 +444,8 @@
     {
         "title": "예쁘다",
         "artist": "세븐틴",
-        "album": "SEVENTEEN 1st Album First `LOVE&LETTER`"
+        "album": "SEVENTEEN 1st Album First `LOVE&LETTER`",
+        "url": "https://www.youtube.com/embed/j59LLNMEOZk"
     },
     {
         "title": "유레카 (Feat. Zion.T)",
@@ -427,23 +480,23 @@
     {
         "title": "Fly (Feat. Fabolous)",
         "artist": "Jessica (제시카)",
-        "album": "With Love, J"
+        "album": "With Love, J",
+        "url": "https://www.youtube.com/embed/iZpq8FjJr2E"
     },
     {
         "title": "매일 매일 기다려 (우리동네 음악대장)",
         "artist": "하현우 (국카스텐)",
         "album": "복면가왕 58회"
-    },
+         },
     {
         "title": "돌아오지마 (Feat. 용준형 Of 비스트)",
         "artist": "헤이즈 (Heize)",
-        "album": "돌아오지마"
-    },
+        "album": "돌아오지마"    
+        },
     {
         "title": "아무 말 안해도 돼",
         "artist": "애즈원",
-        "album": "아무 말 안해도 돼"
-    },
+        "album": "아무 말 안해도 돼"    },
     {
         "title": "..IS YOU",
         "artist": "XIA (준수)",
@@ -457,6 +510,7 @@
     {
         "title": "PICK ME",
         "artist": "PRODUCE 101",
-        "album": "PRODUCE 101 - PICK ME"
+        "album": "PRODUCE 101 - PICK ME",
+        "url": "https://www.youtube.com/embed/BiorIyrjTHc"
     }
 ]
