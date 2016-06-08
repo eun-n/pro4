@@ -1,0 +1,27 @@
+{
+  "name": "pro4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eun-n/pro4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eun-n/pro4/issues"
+  },
+  "homepage": "https://github.com/eun-n/pro4#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cheerio": "^0.20.0",
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "fs": "0.0.2",
+    "request": "^2.72.0"
+  }
+}
